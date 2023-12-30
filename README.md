@@ -8,3 +8,5 @@
 - hyperparameter tuning: Decision tree (maxlen) , Naive bayes (smoothing), Logistic regression
 
 - sistemare codice per separare bene esame e project work
+
+- mettere gli import di tutti i calssifier in alto 
